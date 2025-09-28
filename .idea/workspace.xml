@@ -6,8 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="5ef2e27e-cb58-40f5-9b3c-caf70228d0f4" name="Changes" comment="creacion de entidades y modelos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entidades/cliente.py" beforeDir="false" afterPath="$PROJECT_DIR$/entidades/cliente.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelos/cliente_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/cliente_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entidades/ciudad.py" beforeDir="false" afterPath="$PROJECT_DIR$/entidades/ciudad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entidades/vendedor.py" beforeDir="false" afterPath="$PROJECT_DIR$/entidades/vendedor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelos/categoria_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/categoria_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelos/ciudad_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/ciudad_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelos/credenciales_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/credenciales_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelos/detallepedido_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/detallepedido_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelos/estado_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/estado_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelos/historialbusqueda_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/historialbusqueda_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelos/metodoenvio_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/metodoenvio_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelos/metodopago_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/metodopago_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelos/pedido_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/pedido_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelos/producto_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/producto_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelos/resenia_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/resenia_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelos/vendedor_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/vendedor_modelo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modelos/venta_modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelos/venta_modelo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +96,8 @@
       <workItem from="1758917258400" duration="627000" />
       <workItem from="1758993941490" duration="1249000" />
       <workItem from="1758995213901" duration="319000" />
-      <workItem from="1758995822784" duration="339000" />
+      <workItem from="1758995822784" duration="608000" />
+      <workItem from="1759068970913" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="creacion de entidades y modelos">
       <option name="closed" value="true" />
@@ -93,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758994507375</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="creacion de entidades y modelos">
+      <option name="closed" value="true" />
+      <created>1758996430113</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758996430113</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
