@@ -16,7 +16,6 @@ from entidades.resenia import ResenaAPI
 
 app = FastAPI()
 
-# registra routers
 app.include_router(ClienteAPI().router)
 app.include_router(CiudadAPI().router)
 app.include_router(VendedorAPI().router)
