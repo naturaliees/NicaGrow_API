@@ -5,7 +5,7 @@ class CredencialAPI:
     def __init__(self):
         self.router = APIRouter()
         self.credenciales = [
-            Credencial(id=1, correo="william@example.com", contrasena="secreto123", codigoVerificacion="ABC123", idCliente=1, idVendedor=None)
+            Credencial(id=1, correo="william@gmail.com", contrasena="contrasenia", codigoVerificacion="ABC123", idCliente=1, idVendedor=None)
         ]
         self.router.get("/credenciales")(self.obtener_credenciales)
         self.router.post("/credenciales")(self.crear_credencial)
