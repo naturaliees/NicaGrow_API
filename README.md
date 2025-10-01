@@ -59,6 +59,19 @@ NicaGrowAPI/
    * uvicorn main:app --reload
 4. Ejecutar el proyecto:
    * python main.py
+## Endpoints principales (version inicial)
+
+| Método | Endpoint            | Descripción                        |
+| ------ | ------------------- | ---------------------------------- |
+| POST   | `/api/clientes`     | Registrar un nuevo cliente en el sistema  |
+| GET    | `/api/clientes/{id}`| Obtener información de un cliente por su ID |
+| PUT    | `/discos/{id}` | Actualizar información de un disco |
+| DELETE | `/discos/{id}` | Eliminar un disco                  |
+| POST   | `/api/vendedores`   | Registrar un nuevo vendedor     |
+| GET   | `/api/vendedores/{id}`     | Consultar la información de un vendedor    |
+| POST   | `/api/productos` | Publicar un nuevo producto     |
+| GET   | `/api/productos` | Listar todos los productos disponibles    |
+
 
 ## Funcionalidades Principales
   * Gestión de usuarios: clientes, vendedores y credenciales.
