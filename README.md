@@ -24,7 +24,7 @@ NicaGrowAPI/
 │   ├── producto.py
 │   ├── reseña.py
 │   ├── vendedor.py
-│   ├── venta.py
+│   └── venta.py
 │
 │── modelos/                # Modelos de datos asociados a cada entidad
 │   ├── categoria_modelo.py
@@ -40,7 +40,7 @@ NicaGrowAPI/
 │   ├── producto_modelo.py
 │   ├── reseña_modelo.py
 │   ├── vendedor_modelo.py
-│   ├── venta_modelo.py
+│   └── venta_modelo.py
 │
 │── main.py                 # Punto de entrada de la aplicación
 │── README.md               # Documentación del proyecto
