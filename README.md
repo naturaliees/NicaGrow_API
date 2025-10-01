@@ -65,8 +65,8 @@ NicaGrowAPI/
 | ------ | ------------------- | ---------------------------------- |
 | POST   | `/api/clientes`     | Registrar un nuevo cliente en el sistema  |
 | GET    | `/api/clientes/{id}`| Obtener información de un cliente por su ID |
-| PUT    | `/discos/{id}` | Actualizar información de un disco |
-| DELETE | `/discos/{id}` | Eliminar un disco                  |
+| PUT    | `/api/clientes/{id}` | Actualizar datos de un cliente |
+| DELETE | `/api/clientes/{id}` |  Eliminar un cliente del sistema      |
 | POST   | `/api/vendedores`   | Registrar un nuevo vendedor     |
 | GET   | `/api/vendedores/{id}`     | Consultar la información de un vendedor    |
 | POST   | `/api/productos` | Publicar un nuevo producto     |
