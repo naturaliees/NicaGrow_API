@@ -79,6 +79,6 @@ NicaGrowAPI/
   * Historial de búsqueda para mejorar experiencia del usuario.
 
 ## Tecnologías utilizadas
-* Python 3.12.8
+* Python 3.13
 * FastAPI
 * Uvicorn (Servidor ASGI)
